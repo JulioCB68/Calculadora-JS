@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img alt="Calculadora-JS" src="https://i.ibb.co/Bw05YX8/Calculadora-JS.png" />
+    <img alt="Calculadora-JS" src="https://i.ibb.co/ZVgjWB1/Calculadora-JS.png" />
 </h1>
 
 <br>
