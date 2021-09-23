@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Html
 - Css
--Javascript
+- Javascript
 
 ## :hammer_and_wrench: Como executar
 
